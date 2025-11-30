@@ -230,14 +230,9 @@ External tools assumed:
 
 ---
 
-## Design Philosophy
+## Note
 
-- Explicit files over magic
-- HPC-first, cluster-friendly
-- Easy to read and modify
-- No hidden state
-
-This repository reflects **real-world HPC workflows**, not a polished library.
+This repository reflects ** HPC workflows**, not a polished library.
 Scripts are meant to be copied, adapted, and extended.
 
 ---
